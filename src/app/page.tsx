@@ -11,11 +11,11 @@ export default function Home() {
   const recommendedEquipment = [
     {
       name: "Adjustable Dumbbells",
-      image: "https://m.media-amazon.com/images/I/71+2Yv2a+UL._AC_SL1500_.jpg",
-      description: "Stop buying new weights every month. These replace 15 sets and take you from 5lbs to 52.5lbs instantly.",
-      price: "$399.00",
-      affiliateLink: "https://amazon.com",
-      badge: "Best for Growth"
+      image: "https://m.media-amazon.com/images/I/71-v6-v6-vL._AC_SL1500_.jpg",
+      description: "Perfect for beginners. This quick-dial dumbbell replaces 5 sets of weights and adjusts from 5 to 25 lbs.",
+      price: "$59.84",
+      affiliateLink: "https://amzn.to/4evSx8J",
+      badge: "Best for Starters"
     },
     {
       name: "Heavy-Duty Pull-Up Bar",

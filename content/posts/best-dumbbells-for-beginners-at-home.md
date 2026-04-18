@@ -22,10 +22,12 @@ A more budget-friendly option for those who don't mind manually swapping plates.
 *   **Pros:** Very durable, affordable, old-school feel.
 *   **Cons:** Takes longer to change weights.
 
-### 3. Amazon Basics Rubber Encased Hex Dumbbells
-Perfect if you only need one or two specific weights to start.
-*   **Pros:** Doesn't roll, protects floors.
-*   **Cons:** You'll need to buy more as you get stronger.
+### 3. Amazon Basics Adjustable Dumbbell (25 lb)
+A fantastic mid-range option that offers the convenience of adjustable weights without the premium price tag of Bowflex.
+*   **Pros:** Quick-dial system, replaces 5 sets of weights, very affordable ($59.84).
+*   **Cons:** Max weight is 25 lbs, which you might outgrow for certain exercises.
+
+[Check Price on Amazon](https://amzn.to/4evSx8J)
 
 ## What to Look For
 
@@ -37,7 +39,7 @@ When buying your first set, consider these three factors:
 ## Why You Need Dumbbells
 Unlike machines, dumbbells require you to stabilize the weight, which engages more muscle fibers and builds a more aesthetic physique.
 
-[View Best Prices on Amazon](https://amazon.com)
+[View Best Prices on Amazon](https://amzn.to/4evSx8J)
 
 ## Conclusion
 Investing in quality dumbbells is the single best thing you can do for your home fitness journey. Start small, but start today!
